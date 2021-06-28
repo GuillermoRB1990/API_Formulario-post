@@ -1,0 +1,57 @@
+[
+    {
+        "item_id": 1,
+        "matricula": 918765432,
+        "nombre": "Juan",
+        "apaterno": "Rodriguez",
+        "amaterno": "Perez",
+        "edad": 21,
+        "correo": "juan@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "Gastronomia"
+    },
+    {
+        "item_id": 2,
+        "matricula": 918765434,
+        "nombre": "Maria",
+        "apaterno": "Morales",
+        "amaterno": "Gomez",
+        "edad": 20,
+        "correo": "maria@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 3,
+        "matricula": 123456789,
+        "nombre": "Jes\u00fas",
+        "apaterno": "Perez",
+        "amaterno": "Guzman",
+        "edad": 40,
+        "correo": "jes@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 4,
+        "matricula": 123456788,
+        "nombre": "Wilber",
+        "apaterno": "Jimenez",
+        "amaterno": "Lopez",
+        "edad": 33,
+        "correo": "wilber@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 7,
+        "matricula": 8800993211,
+        "nombre": "Elote",
+        "apaterno": "Maiz",
+        "amaterno": "Perez",
+        "edad": 21,
+        "correo": "nemod@gmai.com",
+        "telefono": 929893232,
+        "carrera": "IRD"
+    }
+]
